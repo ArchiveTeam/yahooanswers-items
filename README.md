@@ -1,0 +1,1 @@
+Initial items are discovered from the us and tw sitemaps, these are listed in this repository. The sitemaps are not complete. Further items are discovered during archiving, and are queued back into the queue.
